@@ -16,7 +16,7 @@ HTML은 "HyperText Markup Language"의 줄임말로, __하이퍼텍스트(HyperT
 
 템플릿은 곧 템플릿 파일을 만든다는 뜻이에요. 템플릿 파일에 모든 내용이 저장되겠죠? 이미 알고 있을 것 같아요.
 
-템플릿은 `blog/templates/blog`디렉토리에 저장됩니다. 먼저 `blog`디렉터리 안에 하위 디렉터리인 `templates`을 생성하세요. 그리고 `template`디렉토리 내 `blog`라는 하위 디렉토리를 생성하세요.
+템플릿은 `blog/templates/blog`디렉토리에 저장됩니다. 먼저 `blog`디렉터리 안에 하위 디렉터리인 `templates`을 생성하세요. 그리고 `templates`디렉토리 내 `blog`라는 하위 디렉토리를 생성하세요.
 
 ```
 blog
